@@ -1,4 +1,5 @@
 $(function(){
+  alert("This is a showcase website; Not all funtionalities are available!");
   let menu = document.querySelector('.menu');
   let hamburgerMenu = document.querySelector('.mobile');
   powerMobileMenu(menu,hamburgerMenu);
